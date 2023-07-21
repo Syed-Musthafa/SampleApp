@@ -1,3 +1,10 @@
 {
+  "compilerOptions" : {
+    "target": "ESNext",
+    "module": "ESNext",
+    "jsx": "react-native",
+    "strict": true,
+    "esModuleInterop": true
+  },
   "extends": "@tsconfig/react-native/tsconfig.json"
 }

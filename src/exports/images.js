@@ -1,24 +1,28 @@
 
 
-const coffie1 = require("../assets/images/coffie1.jpg");
-const coffie2 = require("../assets/images/coffie2.jpg");
-const coffie3 = require("../assets/images/coffie3.jpg");
-const coffie4 = require("../assets/images/coffie4.jpg");
-const coffie5 = require("../assets/images/coffie5.jpg");
-const coffie6 = require("../assets/images/coffie6.jpg");
-const coffie7 = require("../assets/images/coffie7.jpg");
+const coffie1 = require('../assets/images/coffie1.jpg');
+const coffie2 = require('../assets/images/coffie2.jpg');
+const coffie3 = require('../assets/images/coffie3.jpg');
+const coffie4 = require('../assets/images/coffie4.jpg');
+const coffie5 = require('../assets/images/coffie5.jpg');
+const coffie6 = require('../assets/images/coffie6.jpg');
+const coffie7 = require('../assets/images/coffie7.jpg');
 
 
-const profile_1 = require("../assets/images/profile_1.jpg");
-const profile_2 = require("../assets/images/profile_2.jpg");
-const profile_3 = require("../assets/images/profile_3.jpg");
-const profile_4 = require("../assets/images/profile_4.jpg");
-const profile_5 = require("../assets/images/profile_5.jpg");
+const profile_1 = require('../assets/images/profile_1.jpg');
+const profile_2 = require('../assets/images/profile_2.jpg');
+const profile_3 = require('../assets/images/profile_3.jpg');
+const profile_4 = require('../assets/images/profile_4.jpg');
+const profile_5 = require('../assets/images/profile_5.jpg');
+
+const coffeeLogo = require('../assets/images/coffee.png');
+const copyRight =  require('../assets/images/copyright.png');
 
 
 
 export default {
-   
+    coffeeLogo,
+    copyRight,
 
     coffie1,
     coffie2,
@@ -37,8 +41,8 @@ export default {
 
 
 
-    
 
- 
-  
-}
+
+
+
+};
